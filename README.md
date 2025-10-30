@@ -48,113 +48,35 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 [AI Customer Support Agent](https://github.com/vageeshgos/AI-CUSTOMER-SUPPORT-AGENT)
-**Intelligent AI agent for automated customer support with RAG-based knowledge retrieval**
-- Multi-turn conversational agent with context awareness
-- RAG implementation using LangChain and vector databases
-- Smart knowledge base integration for quick resolutions
-- AI-powered response suggestions for support agents
-- **Tech Stack:** Python, NLP, Machine Learning, Streamlit
+### 🤖 Agentic AI Systems
+- **Multi-Agent Collaboration Framework** – Built autonomous agents using LangChain & LangGraph
+- **RAG-based Knowledge Assistant** – Implemented retrieval-augmented generation for domain-specific Q&A
 
-### ❤️ [Heart Disease Prediction](https://github.com/vageeshgos/Heart-Disease-Prediction)
-**ML-powered cardiovascular disease risk assessment system**
-- Predictive model using ensemble learning techniques
-- Comprehensive feature engineering from clinical parameters
-- Achieves high accuracy in early disease detection
-- **Tech Stack:** Scikit-learn, Pandas, NumPy, Matplotlib, Python
+### 💼 AI/ML Applications
+- **AI-Powered Voice Bot** – Developed a conversational AI system using Twilio, Deepgram, and OpenAI
+- **Face Recognition System** – Built using OpenCV and deep learning for real-time detection
 
-### 🏠 [House Price Prediction](https://github.com/vageeshgos/house-price-predicton-by-linear-regration)
-**Real estate price prediction using advanced regression techniques**
-- Linear regression model with feature selection and engineering
-- Handles multiple property attributes for accurate valuation
-- Data preprocessing pipeline for robust predictions
-- **Tech Stack:** Scikit-learn, Pandas, NumPy, Matplotlib, Python
-
-### 📱 [Resume Builder](https://github.com/vageeshgos/RESUME-BUILDER)
-**Interactive web application for creating professional resumes**
-- User-friendly interface for resume creation and customization
-- Multiple templates and export options
-- Real-time preview and editing capabilities
-- **Tech Stack:** Web Technologies, JavaScript, HTML/CSS
+### 🧠 Research & Innovation
+- **Sanskrit OCR with LLM Integration** – Combined traditional OCR with modern NLP
+- **Identity-Preserving Generative Models** – Research on maintaining consistency in AI-generated content
 
 ---
 
-## 📝 Research & Learning Notes
+## 🧩 What is RAG (Retrieval-Augmented Generation)?
 
-> *Documenting my journey through AI research and hands-on experimentation*
+RAG is a powerful AI technique that **combines information retrieval with language generation** to produce accurate, contextually grounded responses.
 
-### 🔍 **Types of RAG (Retrieval-Augmented Generation)**
-
-**📌 Naive RAG**  
-The simplest form - retrieve relevant documents, concatenate, and feed to LLM. Great for getting started but limited by context window and relevance.
-
-**📌 Advanced RAG**  
-Enhances retrieval with:
-- **Pre-retrieval optimization:** Query rewriting, HyDE (Hypothetical Document Embeddings)
-- **Better chunking strategies:** Semantic chunking, sliding windows with overlap
-- **Hybrid search:** Combining dense (embeddings) + sparse (keyword) retrieval
-
-**📌 Modular RAG**  
-Breaks down the pipeline into customizable modules:
-- Routing layer to select appropriate knowledge sources
-- Reranking retrieved documents for better relevance
-- Iterative retrieval for complex queries
-- Self-reflection mechanisms for answer validation
-
-**📌 Agentic RAG**  
-LLM acts as an agent that *decides* when and what to retrieve:
-- Query planning and decomposition
-- Tool use for multiple knowledge sources
-- Self-correction based on retrieved context
-
----
-
-### 🧠 **How LLMs Work: From Tokens to Intelligence**
-
-**1️⃣ Tokenization**  
-Text is broken into tokens (subwords). "ChatGPT" might become ["Chat", "G", "PT"]. Each token gets a unique ID from the model's vocabulary.
-
-**2️⃣ Embeddings**  
-Token IDs are converted into high-dimensional vectors (e.g., 768 or 1024 dimensions) that capture semantic meaning.
-
-**3️⃣ Transformer Architecture**  
-The magic happens through:
-- **Self-Attention:** Each token "looks at" all other tokens to understand context
-- **Multi-Head Attention:** Multiple attention mechanisms running in parallel
-- **Feed-Forward Networks:** Process the attention outputs
-- **Layer Normalization & Residual Connections:** Stabilize training
-
-**4️⃣ Next Token Prediction**  
-The model outputs probabilities for every possible next token. Temperature controls randomness:
-- Low temperature (0.1-0.3): Deterministic, focused
-- High temperature (0.8-1.0): Creative, diverse
-
-**5️⃣ Training**  
-- **Pre-training:** Learn language patterns from massive text corpora
-- **Fine-tuning:** Adapt to specific tasks (instruction following, conversation)
-- **RLHF:** Reinforcement Learning from Human Feedback for alignment
-
----
-
-### ⚙️ **RAG Working Process: Step-by-Step**
-
-```
-📥 USER QUERY
+```plaintext
+📚 USER QUERY
     |
     v
-🔄 Query Preprocessing
-   - Query understanding & expansion
-   - Keyword extraction
-   - Intent classification
+🔍 RETRIEVAL PHASE
+   - Query transformation & expansion
+   - Semantic search in vector database
+   - Retrieve top-k relevant documents
     |
     v
-🔍 Retrieval Phase
-   1. Convert query to embedding (same model as documents)
-   2. Vector similarity search in database (FAISS/Pinecone/Chroma)
-   3. Fetch top-k most relevant chunks (typically k=3-10)
-    |
-    v
-📊 Optional: Reranking
+🎯 Reranking & Filtering
    - Use cross-encoder to rerank results
    - Filter out low-relevance chunks
    - Diversify results
@@ -226,3 +148,5 @@ The model outputs probabilities for every possible next token. Temperature contr
   <i>"The only way to do great work is to love what you do."</i><br/>
   – Steve Jobs
 </p>
+
+🌐 Portfolio: [https://vageeshgoswami.me](https://vageeshgoswami.me)
