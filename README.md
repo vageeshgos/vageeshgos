@@ -8,11 +8,16 @@
 
 ## 🚀 About Me
 
-🎓 **AI/ML Enthusiast** passionate about building intelligent systems that make a real-world impact, currently learning agentic AI and trying to gain expertise in autonomous AI systems  
-💼 **AI Research Intern @ Vivid AI** – Working on identity-preserving generative models and AI agents  
-🤖 **Core Developer @ Xananoids Robotics Club (JECRC)** – Integrating AI with robotics  
-🏆 **Hackathon Participant** – Smart India Hackathon and multiple national AI competitions  
-🌱 Currently diving deeper into **Agentic AI, LLMs, RAG systems, and fine-tuning techniques**  
+🎓 **AI/ML Enthusiast** passionate about building intelligent systems that make a real-world impact, currently learning agentic AI and trying to gain expertise in autonomous AI systems
+  
+💼 **AI Research Intern @ Vivid AI** – Working on identity-preserving generative models and AI agents
+  
+🤖 **Core Developer @ Xananoids Robotics Club (JECRC)** – Integrating AI with robotics
+  
+🏆 **Hackathon Participant** – Smart India Hackathon and multiple national AI competitions
+  
+🌱 Currently diving deeper into **Agentic AI, LLMs, RAG systems, and fine-tuning techniques**
+  
 ⚡ Fun fact: I bridge ancient wisdom with modern AI!
 
 ---
@@ -46,46 +51,43 @@
 
 ---
 
-## 🚀 Featured Projects
+## 💻 Featured Projects
 
-### 🤖 Agentic AI Systems
-- **Multi-Agent Collaboration Framework** – Built autonomous agents using LangChain & LangGraph
-- **RAG-based Knowledge Assistant** – Implemented retrieval-augmented generation for domain-specific Q&A
+### 🔥 RAG-Powered AI Systems
+- Built production-grade RAG systems using LangChain and FAISS
+- Integrated multiple LLMs (OpenAI, Google PaLM, Mistral)
+- Implemented semantic chunking and hybrid search strategies
 
-### 💼 AI/ML Applications
-- **AI-Powered Voice Bot** – Developed a conversational AI system using Twilio, Deepgram, and OpenAI
-- **Face Recognition System** – Built using OpenCV and deep learning for real-time detection
+### 🎨 Image Generation & Processing
+- Developed custom diffusion models for identity-preserving image generation
+- Fine-tuned Stable Diffusion models on domain-specific datasets
+- Created AI-powered image editing tools
 
-### 🧠 Research & Innovation
-- **Sanskrit OCR with LLM Integration** – Combined traditional OCR with modern NLP
-- **Identity-Preserving Generative Models** – Research on maintaining consistency in AI-generated content
+### 🤖 Agentic AI Applications
+- Built autonomous agents using LangChain and AutoGPT
+- Developed multi-agent collaboration systems
+- Implemented tool-using AI agents for real-world tasks
 
 ---
 
-## 🧩 What is RAG (Retrieval-Augmented Generation)?
+## 📚 Understanding RAG (Retrieval-Augmented Generation)
 
-RAG is a powerful AI technique that **combines information retrieval with language generation** to produce accurate, contextually grounded responses.
+RAG is a powerful AI architecture that enhances LLMs by giving them access to external knowledge.
 
-```plaintext
-📚 USER QUERY
+```
+📄 USER QUERY
     |
     v
-🔍 RETRIEVAL PHASE
-   - Query transformation & expansion
-   - Semantic search in vector database
-   - Retrieve top-k relevant documents
+🔍 Retrieval Step
+   - Query embedding (text → vector)
+   - Semantic search in vector DB (FAISS/Pinecone/Chroma)
+   - Top-K most relevant documents retrieved
     |
     v
-🎯 Reranking & Filtering
-   - Use cross-encoder to rerank results
-   - Filter out low-relevance chunks
-   - Diversify results
-    |
-    v
-🧩 Context Construction
-   - Format retrieved chunks
-   - Add metadata (source, timestamp)
-   - Truncate if exceeding context window
+📚 Context Formation
+   - Retrieved documents are ranked
+   - Context window is prepared
+   - Optional: Re-ranking, filtering
     |
     v
 🤖 LLM Generation
@@ -119,7 +121,8 @@ RAG is a powerful AI technique that **combines information retrieval with langua
 
 ## 🏆 Achievements
 
-🥇 Top 10 Finalist of JECRC Smart India Hackathon 2024  
+🥇 Top 10 Finalist of JECRC Smart India Hackathon 2024
+  
 🏅 Participated in multiple college-level hackathons
 
 ---
@@ -127,15 +130,10 @@ RAG is a powerful AI technique that **combines information retrieval with langua
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/vageesh-goswami" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vageeshgoswami@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/vageeshgos" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://linkedin.com/in/vageesh-goswami" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:vageeshgoswami@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/vageeshgos" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://app.base44.com/apps/68adc85a59222d565bce4f54/editor/preview/Portfolio" target="_blank"><img src="https://img.shields.io/badge/Base44_Portfolio-FF6B35?style=for-the-badge&logo=web&logoColor=white" alt="Base44 Portfolio" /></a>
 </p>
 
 <p align="center">
