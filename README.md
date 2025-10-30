@@ -8,16 +8,11 @@
 
 ## 🚀 About Me
 
-🎓 **AI/ML Enthusiast** passionate about building intelligent systems that make a real-world impact, currently learning agentic AI and trying to gain expertise in autonomous AI systems
-  
-💼 **AI Research Intern @ Vivid AI** – Working on identity-preserving generative models and AI agents
-  
-🤖 **Core Developer @ Xananoids Robotics Club (JECRC)** – Integrating AI with robotics
-  
-🏆 **Hackathon Participant** – Smart India Hackathon and multiple national AI competitions
-  
-🌱 Currently diving deeper into **Agentic AI, LLMs, RAG systems, and fine-tuning techniques**
-  
+🎓 **AI/ML Enthusiast** passionate about building intelligent systems that make a real-world impact, currently learning agentic AI and trying to gain expertise in autonomous AI systems  
+💼 **AI Research Intern @ Vivid AI** – Working on identity-preserving generative models and AI agents  
+🤖 **Core Developer @ Xananoids Robotics Club (JECRC)** – Integrating AI with robotics  
+🏆 **Hackathon Participant** – Smart India Hackathon and multiple national AI competitions  
+🌱 Currently diving deeper into **Agentic AI, LLMs, RAG systems, and fine-tuning techniques**  
 ⚡ Fun fact: I bridge ancient wisdom with modern AI!
 
 ---
@@ -25,12 +20,10 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### AI/ML & Data Science
-
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -41,63 +34,24 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### Vector Databases & Tools
-
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6584?style=for-the-badge)
 
 ### Development & Deployment
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vageeshgos&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vageeshgos&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vageeshgos&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vageeshgos&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🎯 Featured Projects
-
-### 🤖 [Multi-RAG Chatbot](https://github.com/vageeshgos/multi_rag_chatbot)
-**Advanced multi-document RAG system with intelligent query routing**
-- Built sophisticated RAG pipeline using LangChain and FAISS for semantic search
-- Implements query routing to handle multiple document types efficiently
-- Features conversational memory and context-aware responses
-- **Tech Stack:** LangChain, FAISS, OpenAI/Groq API, Streamlit, Python
-
-### 📖 [Bhagavad Gita AI - Wisdom from Kurukshetra](https://github.com/vageeshgos/Bhagavad-Gita-AI-Wisdom-from-Kurukshetra)
-**RAG-powered philosophical chatbot bridging ancient wisdom with modern AI**
-- Interactive AI chatbot delivering contextual answers from Bhagavad Gita teachings
-- Utilizes FAISS vector store for efficient semantic retrieval
-- Features Groq's LLaMA 3 model for accurate philosophical interpretations
-- **Tech Stack:** LangChain, FAISS, Groq API, Streamlit, Python
-
-### 🔗 [LangChain Projects Collection](https://github.com/vageeshgos/langchain_projects)
-**Comprehensive collection of LangChain-based AI applications**
-- Multiple production-ready LangChain implementations
-- Demonstrates various RAG patterns and agent architectures
-- Includes documentation chatbots, Q&A systems, and more
-- **Tech Stack:** LangChain, Multiple LLM APIs, Vector Databases, Python
-
-### 🎫 [AI Knowledge Assistant](https://github.com/vageeshgos/AIKnowledgeAssistantAI)
-**Intelligent support ticket management system with AI categorization**
-- Automated ticket classification and priority assignment
+### 🤖 [AI Customer Support Agent](https://github.com/vageeshgos/AI-CUSTOMER-SUPPORT-AGENT)
+**Intelligent AI agent for automated customer support with RAG-based knowledge retrieval**
+- Multi-turn conversational agent with context awareness
+- RAG implementation using LangChain and vector databases
 - Smart knowledge base integration for quick resolutions
 - AI-powered response suggestions for support agents
 - **Tech Stack:** Python, NLP, Machine Learning, Streamlit
@@ -125,15 +79,126 @@
 
 ---
 
+## 📝 Research & Learning Notes
+
+> *Documenting my journey through AI research and hands-on experimentation*
+
+### 🔍 **Types of RAG (Retrieval-Augmented Generation)**
+
+**📌 Naive RAG**  
+The simplest form - retrieve relevant documents, concatenate, and feed to LLM. Great for getting started but limited by context window and relevance.
+
+**📌 Advanced RAG**  
+Enhances retrieval with:
+- **Pre-retrieval optimization:** Query rewriting, HyDE (Hypothetical Document Embeddings)
+- **Better chunking strategies:** Semantic chunking, sliding windows with overlap
+- **Hybrid search:** Combining dense (embeddings) + sparse (keyword) retrieval
+
+**📌 Modular RAG**  
+Breaks down the pipeline into customizable modules:
+- Routing layer to select appropriate knowledge sources
+- Reranking retrieved documents for better relevance
+- Iterative retrieval for complex queries
+- Self-reflection mechanisms for answer validation
+
+**📌 Agentic RAG**  
+LLM acts as an agent that *decides* when and what to retrieve:
+- Query planning and decomposition
+- Tool use for multiple knowledge sources
+- Self-correction based on retrieved context
+
+---
+
+### 🧠 **How LLMs Work: From Tokens to Intelligence**
+
+**1️⃣ Tokenization**  
+Text is broken into tokens (subwords). "ChatGPT" might become ["Chat", "G", "PT"]. Each token gets a unique ID from the model's vocabulary.
+
+**2️⃣ Embeddings**  
+Token IDs are converted into high-dimensional vectors (e.g., 768 or 1024 dimensions) that capture semantic meaning.
+
+**3️⃣ Transformer Architecture**  
+The magic happens through:
+- **Self-Attention:** Each token "looks at" all other tokens to understand context
+- **Multi-Head Attention:** Multiple attention mechanisms running in parallel
+- **Feed-Forward Networks:** Process the attention outputs
+- **Layer Normalization & Residual Connections:** Stabilize training
+
+**4️⃣ Next Token Prediction**  
+The model outputs probabilities for every possible next token. Temperature controls randomness:
+- Low temperature (0.1-0.3): Deterministic, focused
+- High temperature (0.8-1.0): Creative, diverse
+
+**5️⃣ Training**  
+- **Pre-training:** Learn language patterns from massive text corpora
+- **Fine-tuning:** Adapt to specific tasks (instruction following, conversation)
+- **RLHF:** Reinforcement Learning from Human Feedback for alignment
+
+---
+
+### ⚙️ **RAG Working Process: Step-by-Step**
+
+```
+📥 USER QUERY
+    |
+    v
+🔄 Query Preprocessing
+   - Query understanding & expansion
+   - Keyword extraction
+   - Intent classification
+    |
+    v
+🔍 Retrieval Phase
+   1. Convert query to embedding (same model as documents)
+   2. Vector similarity search in database (FAISS/Pinecone/Chroma)
+   3. Fetch top-k most relevant chunks (typically k=3-10)
+    |
+    v
+📊 Optional: Reranking
+   - Use cross-encoder to rerank results
+   - Filter out low-relevance chunks
+   - Diversify results
+    |
+    v
+🧩 Context Construction
+   - Format retrieved chunks
+   - Add metadata (source, timestamp)
+   - Truncate if exceeding context window
+    |
+    v
+🤖 LLM Generation
+   - Construct prompt: [System] + [Context] + [Query]
+   - LLM generates response grounded in retrieved context
+   - Citation extraction (optional)
+    |
+    v
+✅ Post-Processing
+   - Hallucination detection
+   - Source attribution
+   - Response formatting
+    |
+    v
+📤 FINAL ANSWER
+```
+
+**🎯 Key Advantages:**
+- ✅ Up-to-date information without retraining
+- ✅ Reduces hallucinations with grounded context
+- ✅ Explainable with source citations
+- ✅ Domain-specific knowledge integration
+
+**⚠️ Challenges:**
+- 🔸 Retrieval quality is critical
+- 🔸 Context window limitations
+- 🔸 Latency from retrieval step
+- 🔸 Chunking strategy impacts performance
+
+---
+
 ## 🏆 Achievements
 
-🥇 Finalist at Smart India Hackathon 2024
-  
-🏅 Winner of multiple college-level AI/ML hackathons
-  
-🎓 Published research on AI-based content moderation
-  
-💡 Active contributor to open-source AI projects
+🥇 Top 10 Finalist of JECRC Smart India Hackathon 2024  
+🏅 Participated in multiple college-level hackathons
 
 ---
 
@@ -158,6 +223,6 @@
 ---
 
 <p align="center">
-  <i>"The only way to do great work is to love what you do."</i><br />
+  <i>"The only way to do great work is to love what you do."</i><br/>
   – Steve Jobs
 </p>
