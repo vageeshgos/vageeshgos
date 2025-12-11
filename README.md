@@ -147,4 +147,4 @@ RAG is a powerful AI architecture that enhances LLMs by giving them access to ex
   – Steve Jobs
 </p>
 
-🌐 Portfolio: [https://vageeshgoswami.me](https://vageeshgoswami.me)
+🌐 Portfolio: [https://vageesh-goswami-portfolio.base44.app/](https://vageesh-goswami-portfolio.base44.app/)
